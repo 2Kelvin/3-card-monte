@@ -4,7 +4,7 @@
 
  To update a string, create an array holding a string literal. The string literal assignment will be stored in the constants section as always but its contents will be copied into the array. You can then update your array as much as you like.
 
-**constants are read only i.e. you cannot update them. String literals are constants.
+**constants are read only** i.e. you cannot update them. String literals are constants.
 
 Delaring an array as a function argument  means the array variable is a pointer. 
 
